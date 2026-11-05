@@ -1,0 +1,12 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.analysis.extraPaths": [
+        "C:/scoop/apps/python/current/Lib/site-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:/scoop/apps/python/current/Lib/site-packages"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    }
+}
