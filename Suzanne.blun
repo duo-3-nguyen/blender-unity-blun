@@ -36,10 +36,7 @@
     ],
     "colorAttributes": [],
     "attributes": {
-        "position": {
-            "start": 0,
-            "count": 1966
-        },
+        "position": { "start": 0, "count": 1966 },
         "normal": {
             "start": 23592,
             "count": 1966
